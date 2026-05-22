@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "771598336893",
+    "firebase_url": "https://fleetora-b71cf-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fleetora-b71cf",
+    "storage_bucket": "fleetora-b71cf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771598336893:android:ca6be6f5f6cf653de50214",
+        "android_client_info": {
+          "package_name": "com.FleeTora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771598336893-sqgqc7o44mpfhv7l26id7cace7tsu136.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FleeTora",
+            "certificate_hash": "b65bf90afe9c5252e79bbe3ad9ef291418bece17"
+          }
+        },
+        {
+          "client_id": "771598336893-uia9be7oqvjb69mumf6c9vv7fqoho7s4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.FleeTora",
+            "certificate_hash": "24cd04f477df888a4eff3a06f7df115e13385f63"
+          }
+        },
+        {
+          "client_id": "771598336893-ifjjhb9thbrdfk44sgejj80h1v98lgf5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU7FZPieL4FbtDAbfhtQLAWWfs6q3okuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771598336893-ifjjhb9thbrdfk44sgejj80h1v98lgf5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "771598336893-3fi1jf9v3lea7bps93b017cq4bonikf7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FleeTora",
+                "app_store_id": "19122009"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
